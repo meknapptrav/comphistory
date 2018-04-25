@@ -21,6 +21,19 @@ IBM System/23 Datamaster
 - Processor: Intel 8085
 - Included BASIC
 
+## Other early influences
+### 1980 
+Shugart (later Seagate) introduces the ST-506 5MB HDD
+- Disk controller evolved from SA1000, which was evolved from the floppy disk controller
+- MFM encoding
+- Later models:
+    - 1981 ST-412 10MB
+    - 1981 ST-225 20MB, half-height
+- A later extension to the ST-412 used RLL encoding for a 50% increase in capacity and bit rate
+- The ST-506 interface is copied by other manufacturers
+- ESDI was an extension to ST-506 that moved some parts from the controller onto the drive iteself.  It used ST-506 cabling
+
+
 ## The PC
 ### August 12, 1981
 IBM Introduces the IBM PC (5150) for $2,995
@@ -123,7 +136,7 @@ Microsoft releases PC-DOS 2.10 with support for half-height floppies (required t
 May 1984
 Phoenix Software Associates released the first Phoenix PC ROM-BIOS, licensing it to OEMS to create 100% compatible clones.  AMI and Award BIOS quickly follow.  System BIOS becomes a open commodity item.
 
-August 14, 1984
+### August 14, 1984
 IBM introduces the IBM PC/AT (5170)
 	• 6Mhz Intel 80286 microprocessor
 		○ 16-bit data bus
@@ -137,7 +150,9 @@ IBM introduces the IBM PC/AT (5170)
 	• BIOS Setup program provided on disk
 	• 84-key AT Keyboard (also considered Model F), left side F1-F10, adds Sys Req key, LEDs for Caps/Scroll/NumLk, and large "L" Enter key
 	• Introduction of 1.2MB 5.25" Floppy (Double sided, high density, 80 tracks, 15 sectors/track (512 bytes)) - some incompatibilities with 360KB floppy drives
-	• 20MB hard disk drive
+	• Seagate ST-412 MFM 20 MB drive **Sets the ST-506 MFM interface as standard**
+	• Xebec 1210 MFM controller
+20MB hard disk drive 
 	• Worked with existing CGA & MDA cards
 	• Case supports a physical lock
 	• 192W power supply
