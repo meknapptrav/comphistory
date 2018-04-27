@@ -3,5 +3,5 @@ Vannevar Bush, 1945
 
 Ted Nelson, 1974
 [Computer Lib / Dream Machines](http://www.digibarn.com/collections/books/computer-lib/)
-
+also [excerpt here](http://www.newmediareader.com/book_samples/nmr-21-nelson.pdf)
 
