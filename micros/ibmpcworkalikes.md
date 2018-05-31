@@ -1,5 +1,5 @@
 # What they were
-When IBM introduced the IBM PC in 1981, many people knew that it would succeed on the IBM name alone.  As much of the machine was built
+When IBM introduced the [IBM PC](pc-platform.md#the-pc) in 1981, many people knew that it would succeed on the IBM name alone.  As much of the machine was built
 using off-the-shelf parts, it was fairly easy to create a "Workalike" machine that was very similar and could run MS-DOS.  These vendors
 would frequently try to differentiate themselves by offering features that were better than what IBM offered.
 
