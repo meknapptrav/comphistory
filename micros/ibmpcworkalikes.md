@@ -15,4 +15,11 @@ This meant these machines ultimately failed, and the importance of "100% IBM Com
 # Notable models
 
 ## Tandy 2000
-[Wikipedia article](https://en.wikipedia.org/wiki/Tandy_2000)
+A much higher end machine than the PC: faster, more memory, higher capacity storage.  Tandy touted Lotus's claim that this was the best machine to run 123 on.   
+[Wikipedia article](https://en.wikipedia.org/wiki/Tandy_2000)   
+[Infoworld review](https://books.google.com/books?id=wi4EAAAAMBAJ&lpg=PA74&pg=PA71#v=onepage&q&f=false)
+
+## HP 150
+This is a very neat all-in-one type design with 3.5" disks and a nice high-resolution 9" display with touchscreen technology!  It interfaced peripherals via the HP-IB (IEEE-488) bus.    
+[Byte magazine review](https://archive.org/stream/byte-magazine-1984-11/1984_11_BYTE_09-12_New_Chips#page/n259/mode/2up)    
+[Wikipedia artcile](https://en.wikipedia.org/wiki/HP-150)    
