@@ -1,6 +1,9 @@
 George Boole, 1854
 [The Laws of Thought](http://gutenberg.org/ebooks/15114)
 
+Alan Turing, 1936
+[On Computable Numbers](http://www.thocp.net/biographies/papers/turing_oncomputablenumbers_1936.pdf)
+
 Claude Shannon, 1940
 [A symbolic analysis of relay and switching circuits](http://dspace.mit.edu/handle/1721.1/11173)
 
