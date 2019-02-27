@@ -23,3 +23,19 @@ A much higher end machine than the PC: faster, more memory, higher capacity stor
 This is a very neat all-in-one type design with 3.5" disks and a nice high-resolution 9" display with touchscreen technology!  It interfaced peripherals via the HP-IB (IEEE-488) bus.    
 [Byte magazine review](https://archive.org/stream/byte-magazine-1984-11/1984_11_BYTE_09-12_New_Chips#page/n259/mode/2up)    
 [Wikipedia artcile](https://en.wikipedia.org/wiki/HP-150)    
+
+## DEC Rainbow
+This is an interesting 3-in-one computer.  (One could even say 4-in-one)
+ - It could act as a VT101 terminal to connect directly to DEC's VAX minicomputers
+ - It could run the "CPM 86/80" OS which could detect and run both CP/M and CP/M-86 software, using the correct processor for the executable (Z80 and 8088, respectively)
+ - It could run MS-DOS on it's 8088 processor  
+ 
+Basic stats:
+ - Intel 8088 @ 4.815 MHz
+ - Zilog Z80 @ 4.012 MHz
+ - OS: C/PM-80, C/PM-86, MS-DOS, USCD p-System
+ - Storage: proprietary RX50 SS Quad-density 5.25" floppies (400K) & hard drive option (ST-506 standard)
+ - Graphics: text in 80×24 or 132×24 modes.  Proprietary graphics add-on based on NEC 7220   
+ 
+[Wikipedia article](https://en.wikipedia.org/wiki/Rainbow_100)
+
