@@ -74,10 +74,13 @@ IBM Introduces the IBM PC (5150) for $2,995
     1. MDA (Monochrome Display adapter) & 5151 green screen monitor
         - Built around **Motorola MC6845** display controller chip
 	      - Text mode only (80x25)
+	      - 9x14 pixel character font
+	      - supported underline, bold, inverse, and blinking characters
 	      - Included parallel printer port (DB-25 Centronics)
             - **Becomes IEEE 1284**
     2. CGA (Color/Graphics adapter) & 5153 RGBi monitor
         - Built around same Motorola MC6845 display controller chip as MDA
+	- 8x8 pixel character font
         - 16KB video memory
 - IBM "Model F" keyboard, 83-key, left-hand side F1-F10, buckling spring "clicky keys"
 - Extended ASCII character set - "Code page 437"
