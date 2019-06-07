@@ -101,7 +101,7 @@ Compaq releases the Compaq Portable
 	• OS is "Compaq DOS 1.13"  (essentially PC-DOS 1.1 licensed from Microsoft)  Later would license MS-DOS 2.x
 Before this there were PC "Clones" that had incompatible proprietary BIOS and licensed, customized versions of MS-DOS.  Software written to work directly with the IBM hardware did not run on these machines - only software that relied totally on the PC/MS-DOS "API".
 	
-March 8, 1983
+### March 8, 1983
 IBM introduces the IBM PC/XT (5160).  Improvements over PC:
 	• 128KB memory standard (up to 256KB on motherboard, 64KB soldered in)
 	• 1 360KB DSDD 5.25" floppy
@@ -116,10 +116,10 @@ Microsoft releases PC-DOS 2.0.  A major re-write of DOS 1
 	• Unix-like "file handles" replace CP/M-like File Control Blocks (FCB)
 	• Loadable device drivers to extend hardware support
 	
-July 1983
+### July 1983
 Wang Laboratories announces the 30 pin SIMM memory module
 
-November 1, 1983
+### November 1, 1983
 IBM introduces the IBM PCjr (4860).  
 The PCjr was IBM's unsuccessful effort to enter the "Home Computer" market.  Innovations included:
 	•  "PCjr graphics"  - two chips, the 6845 and the VGA (Video Gate Array) - not the later VGA  - 16 color extension of CGA technology 
@@ -133,7 +133,7 @@ The PCjr was IBM's unsuccessful effort to enter the "Home Computer" market.  Inn
 Microsoft releases PC-DOS 2.10 with support for half-height floppies (required timing changes)
 	
 	
-May 1984
+### May 1984
 Phoenix Software Associates released the first Phoenix PC ROM-BIOS, licensing it to OEMS to create 100% compatible clones.  AMI and Award BIOS quickly follow.  System BIOS becomes a open commodity item.
 
 ### August 14, 1984
@@ -164,25 +164,25 @@ Microsoft releases PC-DOS 3.0
 	• FAT16 filesystem
 	• Extended Memory Specification (XMS) - specifies use of memory beyond 1MB on 276 class machines.  Not well defined nor used.
 	
-October 1984
+### October 1984
 IBM announces the Enhanced Graphics Adapter (EGA) for use in the PC line
 
-November 1984
+### November 1984
 Tandy announces the Tandy 1000 line
 	• PC compatible
 	• Uses PCjr graphics and sound.  Become known as "Tandy graphics/sound"  or TGA
 	• MS-DOS in ROM
 
-March 1985
+### March 1985
 Microsoft releases PC-DOS 3.1
 	• Bug fixes to 3.0
 	• Support for the IBM PC Network
 	
-1985
+### Also in 1985
 Expanded Memory Specification (EMS) makes its debut at COMDEX.  It uses bank-switching to circumvent the 640KB barrier.  Lotus, Intel, Microsoft later refine standard and commit support in future products
 Microsoft releases Windows 1.0.  Nobody cares.
 	
-April 3, 1986
+### April 3, 1986
 IBM releases the IBM PC Convertible (5140)
 	• First IBM "laptop"
 	• First IBM PC with 3.5" 720KB floppy drives
@@ -193,15 +193,16 @@ Microsoft releases PC-DOS 3.2
 	• Support for 3.5" 720KB floppies
 	• Support form IBM Token Ring network
 
-Also in 1986
-Western Digital develops "IDE" standard (Integrated Drive Electronics)
-	• Drive controller is integrated into the drive (MFM drives had complex controller cards in ISA bus).  Hard drive controllers are now essentially bridges from the host bus to ATA
-	• "PC/AT Atttachment"  (ATA) essentially extends the 16-bit ISA bus to the drive.  Defines connectors & signaling
-	• Host asks for a sector, IDE electronics take care of the physical requirements to retrieve it
-Chips & Technologies releases the NEAT Chipset 82C206, incorporating all of the support chips from the AT motherboard into a 4-chip "chipset".  Chipsets become economical and popular with clone manufacturers
-Compaq releases Compaq Deskpro 386 - first Intel 80386 based PC.
+### Also in 1986
+ - Western Digital develops "IDE" standard (Integrated Drive Electronics)
+ - Drive controller is integrated into the drive (MFM drives had complex controller cards in ISA bus).  Hard drive controllers are now essentially bridges from the host bus to ATA
+    - "PC/AT Atttachment"  (ATA) essentially extends the 16-bit ISA bus to the drive.  Defines connectors & signaling
+    -  Host asks for a sector, IDE electronics take care of the physical requirements to retrieve it
+ - Chips & Technologies releases the NEAT Chipset 82C206, incorporating all of the support chips from the AT motherboard into a 4-chip "chipset".  Chipsets become economical and popular with clone manufacturers
+ - Compaq releases Compaq Deskpro 386 - first Intel 80386 based PC.
+ - AST releases the Rampage/286 memory expansion board with its EEMS standard - a predecessor to LIM EMS 4.0 - allowing paging of conventional memory in addition to the standard EMS page frame.
 
-April 1987
+### April 1987
 IBM releases the Personal System/2 (PS/2) line of computers
 	• Serial port upgraded to 16550 UART - fixing high speed woes
 	• 1.44MB high density 3.5" floppies
