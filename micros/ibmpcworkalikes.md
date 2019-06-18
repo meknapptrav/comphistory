@@ -4,10 +4,9 @@ using off-the-shelf parts, it was fairly easy to create a "Workalike" machine th
 would frequently try to differentiate themselves by offering features that were better than what IBM offered.
 
 Differences in the hardware meant, however, that these machines were not 100% IBM compatible and required Microsoft to create special
-versions of MS-DOS that would run only on that piece of hardware.  Application software that bypassed standard MS-DOS calls and wrote directly
-to the hardware would also need to be patched to run on the different hardware.  (e.g. A modified Lotus 1-2-3 was available for the 
-Tandy 2000).  This was considered normal practice in the industry at the time, but consumers wanted to be able to buy the retail version 
-of software and run it on their machine - not have to purchase a special, expensive version from the harfware vendor.
+versions of MS-DOS that would run only on that piece of hardware.  Microsoft suggested that application software use the MS-DOS API exclusively for interacting with the hardware.  An example application that did this was the word processor WordStar, which is ported to MS-DOS from CP/M.  This meant that WordStar could run on any MS-DOS machine without modification.  There was a performance penalty for this, however.  The application would make a DOS call, which would likely then make a BIOS call, which was slow and inefficient.
+
+Therefore, application software would frequently bypass both standard MS-DOS calls and the BIOS, and would write directly to the hardware.  This meant that this software would need to be patched to run on the different hardware.  (e.g. A modified Lotus 1-2-3 was available for the Tandy 2000).  While this was considered normal practice in the industry at the time, consumers wanted to be able to buy the retail version of software and run it on their machine - not have to purchase a special, expensive version from the hardware vendor.
 
 This meant these machines ultimately failed, and the importance of "100% IBM Compatible" was recognized.
 
