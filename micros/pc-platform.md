@@ -125,47 +125,54 @@ Wang Laboratories announces the 30 pin SIMM memory module
 ### November 1, 1983
 IBM introduces the IBM PCjr (4860).  
 The PCjr was IBM's unsuccessful effort to enter the "Home Computer" market.  Innovations included:
-	•  "PCjr graphics"  - two chips, the 6845 and the VGA (Video Gate Array) - not the later VGA  - 16 color extension of CGA technology 
-	• Included RF modulator (separate option for CGA)
-	• 3-voice sound (TI SN76489 Chip)
-	• Only PC model with ROM Cartridge slots
-	• "Sidecar" version of I/O Channel bus
-	• "Light Pen" port - effectively becomes a mouse port later
-	• Included joystick ports
-	• First half-height 360KB floppies
+ - "PCjr graphics"  - two chips, the 6845 and the VGA (Video Gate Array) - not the later VGA  - 16 color extension of CGA technology 
+ - Included RF modulator (separate option for CGA)
+ - 3-voice sound (TI SN76489 Chip)
+ - Only PC model with ROM Cartridge slots
+ - "Sidecar" version of I/O Channel bus
+ - "Light Pen" port - effectively becomes a mouse port later
+ - Included joystick ports
+ - First half-height 360KB floppies
 Microsoft releases PC-DOS 2.10 with support for half-height floppies (required timing changes)
 	
-	
+### February 1984
+IBM introduces the Portable PC
+ - Designed to compete the with successful Compaq Portable
+ - Essentially an XT motherboard mounted in a luggable case
+ - 256KB memory on board, expandable to 512KB
+ - stock IBM CGA card connected to internal 9" monochrome (amber) composite monitor
+ - external connector for color monitor
+ - 1 or 2 360 KB half-height 5.25" drives
+ 
 ### May 1984
 Phoenix Software Associates released the first Phoenix PC ROM-BIOS, licensing it to OEMS to create 100% compatible clones.  AMI and Award BIOS quickly follow.  System BIOS becomes a open commodity item.
 
 ### August 14, 1984
 IBM introduces the IBM PC/AT (5170)
-	• 6Mhz Intel 80286 microprocessor
-		○ 16-bit data bus
-		○ 24-bit address bus (16MB addressable memory)
-		○ Optional 80287 math co-processor
-	• "I/O Channel" bus - 16-bit AT Bus, backward compatible with 8-bit XT bus,  later to be known as ISA
-	• Addition of 2nd 8259A increasing total IRQs to 15 (from 8)
-	• Addition of 2nd 8237A increasing DMA channels to 7 (from 4)
-	• 8250 UART upgraded to 16450 (for high speed serial connections, but still problematic)
-	• Battery backed real-time clock added - Motorola MC146818, includes 50 bytes of CMOS memory to store BIOS parameters (NVRAM)
-	• BIOS Setup program provided on disk
-	• 84-key AT Keyboard (also considered Model F), left side F1-F10, adds Sys Req key, LEDs for Caps/Scroll/NumLk, and large "L" Enter key
-	• Introduction of 1.2MB 5.25" Floppy (Double sided, high density, 80 tracks, 15 sectors/track (512 bytes)) - some incompatibilities with 360KB floppy drives
-	• Seagate ST-412 MFM 20 MB drive **Sets the ST-506 MFM interface as standard**
-	• Xebec 1210 MFM controller
-20MB hard disk drive 
-	• Worked with existing CGA & MDA cards
-	• Case supports a physical lock
-	• 192W power supply
+ - 6Mhz Intel 80286 microprocessor
+   - 16-bit data bus
+   - 24-bit address bus (16MB addressable memory)
+ - Optional 80287 math co-processor
+ - "I/O Channel" bus - 16-bit AT Bus, backward compatible with 8-bit XT bus,  later to be known as ISA
+ - Addition of 2nd 8259A increasing total IRQs to 15 (from 8)
+ - Addition of 2nd 8237A increasing DMA channels to 7 (from 4)
+ - 8250 UART upgraded to 16450 (for high speed serial connections, but still problematic)
+ - Battery backed real-time clock added - Motorola MC146818, includes 50 bytes of CMOS memory to store BIOS parameters (NVRAM)
+ - BIOS Setup program provided on disk
+ - 84-key AT Keyboard (also considered Model F), left side F1-F10, adds Sys Req key, LEDs for Caps/Scroll/NumLk, and large "L" Enter key
+-  Introduction of 1.2MB 5.25" Floppy (Double sided, high density, 80 tracks, 15 sectors/track (512 bytes)) - some incompatibilities with 360KB floppy drives
+ - Seagate ST-412 MFM 20 MB drive **Sets the ST-506 MFM interface as standard**
+ - Xebec 1210 MFM controller
+ - Worked with existing CGA & MDA cards
+ - Case supports a physical lock
+ - 192W power supply
 This defines the standards:
-	• ISA bus
-	• AT form factor
+- 16-bit ISA bus
+- AT form factor
 Microsoft releases PC-DOS 3.0
-	• Adds support for 1.2MB floppies
-	• FAT16 filesystem
-	• Extended Memory Specification (XMS) - specifies use of memory beyond 1MB on 276 class machines.  Not well defined nor used.
+- Adds support for 1.2MB floppies
+- FAT16 filesystem
+- Extended Memory Specification (XMS) - specifies use of memory beyond 1MB on 286 class machines.  Not well defined nor used.
 	
 ### October 1984
 IBM announces the Enhanced Graphics Adapter (EGA) for use in the PC line
