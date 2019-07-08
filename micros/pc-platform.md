@@ -260,8 +260,7 @@ VESA Local Bus created to bypass speed limitations of ISA
 	
 	
 Good links:
-https://en.wikipedia.org/wiki/Timeline_of_DOS_operating_systems
-
-Backstory of the IBM PC
-Byte magazine Volume 15, Number 9
+ - https://en.wikipedia.org/wiki/Timeline_of_DOS_operating_systems
+ - http://www.seasip.info/VintagePC/index.html  (Good technical info on early hardware)
+ - Backstory of the IBM PC: Byte magazine Volume 15, Number 9
 	
