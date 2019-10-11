@@ -13,8 +13,20 @@ John von Neumann, 1945
 Vannevar Bush, 1945
 [As We Think](https://web.archive.org/web/20011201210444if_/http:/www.isg.sfu.ca:80/~duchier/misc/vbush/vbush.txt)
 
+[Moore School Lectures](https://en.wikipedia.org/wiki/Moore_School_Lectures), 1946  
+
 Doug Englebart, 1968
 [The Mother of All Demos](http://www.dougengelbart.org/firsts/dougs-1968-demo.html)
+
+Association for Computing Machinery (ACM), 1968   
+Curriculum '68   
+
+Donald E. Knuth, 1968   
+The Art of Computer Programming: Fundamental Algorithms   
+
+Edsger Dijkstra, 1968
+[Go-To Statement Considered Harmful](https://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf)   
+ACM journal, March 1968
 
 Ted Nelson, 1974
 [Computer Lib / Dream Machines](http://www.digibarn.com/collections/books/computer-lib/)
