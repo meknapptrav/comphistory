@@ -11,8 +11,18 @@ words, if you upgraded to a bigger model, you could bring all your software with
 The S/360 was immensly popular and dominated the mainframe market.  IBM mainframes to this day are an evolution of the original S/360 and 
 could still run software developed for the first models in the late 60s.
 
+## Interesting Facts
+- Used IBM's SLT circuits - a "hybrid" integrating circuit combining transistors on silicon wafers with separate discrete components (resistors/etc)
+- Popularized the 8-bit byte.  Was the "atomic" unit of addressability in the S/360.  The term was brought over from the Stretch project
+- Scalability was made possible by the use of a "control store" and microprogramming.  Also greatly enhanced the ability of S/360 to emulate earlier systems such as the 1401 and 7090.
+- There was a lot of resistance from the GPD division (Endicott)
+
+
 ## Links
 [Some tech info, including front panel depictions](http://www.quadibloc.com/comp/pan04.htm)
+
+## Books
+[IBM's 360 and early 370 systems](https://www.google.com/books/edition/_/MFGj_PT_clIC?hl=en)
 
 ## Emulating the S/360
 [Hercules, an emulator for IBM mainframes and other computers](http://www.hercules-390.org/)   
