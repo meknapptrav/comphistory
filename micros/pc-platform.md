@@ -1,4 +1,10 @@
 ## IBM Predecessors 
+### 1972-1973
+SCAMP Prototype
+- portable, personal computer prototype
+- based on the PALM Processer
+- included Philips compact cassette drive, small CRT, and full function keyboard
+- PALM emulated IBM 1130 to run the 1130's version of APL
 ### September 1975
 IBM 5100
 - BASIC and/or APL programming , 16-64KB, tape storage, $8,975-$19,975 for engineers, statisticians, etc. 
