@@ -86,9 +86,21 @@ IBM Introduces the IBM PC (5150) for $2,995
 - Extended ASCII character set - "Code page 437"
     - What most people think of "ASCII"  today
 - Installing a hard disk ("Winchester drive") involved a power supply upgrade - not an official IBM offering
-- Operating System: **Microsoft MS-DOS 1.0**
+- Operating System: **Microsoft MS-DOS 1.0** licensed as **PC-DOS 1.0**
     - Essentially a "work-alike" of CP/M 8-bit operating system for 8080/Z80 processors
     - Big innovation from Microsoft is the FAT filesystem  (now called FAT12)
+- Initial software [announced](https://www.ibm.com/ibm/history/documents/pdf/pcpress.pdf) with the PC
+    - VisiCalc, by Personal Software
+    - EasyWriter, by Information Unlimited Software
+    - General Ledger, Accounts Receivable, and Accounts Payable, by Peachtree Software
+    - Microsoft Adventure
+    - "Communications Software" for connecting to Dow Jones & THE SOURCE.  Forthcoming 3270 emulation was also mentioned.  Actual title of software not mentioned.
+    - IBM Pascal Compiler (licensed from Microsoft, based on their Pascal compiler for SCP 86-DOS)
+    - Operating systems:  
+        - IBM PC DOS 1.0
+	- CP/M-86, by Digital Research
+	- UCSD p-System, by SofTech Microsystems
+       
 
 ### May 1982
 Microsoft releases PC-DOS 1.10 which includes support for
