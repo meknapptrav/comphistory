@@ -16,7 +16,8 @@ Vannevar Bush, 1945
 [Moore School Lectures](https://en.wikipedia.org/wiki/Moore_School_Lectures), 1946  
 
 Doug Englebart, 1968
-[The Mother of All Demos](http://www.dougengelbart.org/firsts/dougs-1968-demo.html)
+[The Mother of All Demos](http://www.dougengelbart.org/firsts/dougs-1968-demo.html)  
+More info on Douglas Englebart: [The Augmentation of Douglas Englebart](https://www.imdb.com/title/tt8778694/)
 
 Association for Computing Machinery (ACM), 1968   
 Curriculum '68   
